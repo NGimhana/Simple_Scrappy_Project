@@ -7,5 +7,5 @@ This is a simple web crawling application implemented using "scrapy" python lib.
 Execute below terminal command.
 
 ```
-scrapy crawl quotes -o quotes.js
+scrapy crawl quotes -o quotes.json
 ```
